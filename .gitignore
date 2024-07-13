@@ -1,0 +1,11 @@
+<<<<<<< HEAD:.gitignore
+<<<<<<< HEAD:.gitignore
+node_modules
+=======
+node_modules
+config/.env
+>>>>>>> cb57dd93db784ee05bab7bdcb983cbf62735e45f:BackEnd/.gitignore
+=======
+node_modules
+config/.env
+>>>>>>> cb57dd93db784ee05bab7bdcb983cbf62735e45f:BackEnd/.gitignore
