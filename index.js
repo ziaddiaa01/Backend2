@@ -1,4 +1,3 @@
-<<<<<<< HEAD:index.js
 import express from 'express'
 import initApp from './index.router.js'
 import dotenv from 'dotenv'
@@ -16,7 +15,6 @@ const port = process.env.PORT || 3000
 initApp(app,express)
 app.listen(port,()=>console.log(`App is listening on port ${port}!`))
 
-=======
 import express from 'express'
 import initApp from './index.router.js'
 import dotenv from 'dotenv'
@@ -35,4 +33,3 @@ initApp(app,express)
 app.listen(port,()=>console.log(`App is listening on port ${port}!`))
 
 
->>>>>>> cb57dd93db784ee05bab7bdcb983cbf62735e45f:BackEnd/index.js
